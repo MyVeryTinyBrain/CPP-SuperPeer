@@ -1,0 +1,5 @@
+C:\Users\myver\source\repos\SuperPeer\x64\Debug\Ijwhost.dll
+C:\Users\myver\source\repos\SuperPeer\x64\Debug\DotNetSuperPeer.deps.json
+C:\Users\myver\source\repos\SuperPeer\x64\Debug\DotNetSuperPeer.runtimeconfig.json
+C:\Users\myver\source\repos\SuperPeer\DotNetSuperPeer\x64\Debug\DotNetSuperPeer.vcxproj.AssemblyReference.cache
+C:\Users\myver\source\repos\SuperPeer\DotNetSuperPeer\x64\Debug\DotNetSuperPeer.genruntimeconfig.cache
